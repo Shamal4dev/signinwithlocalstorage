@@ -12,6 +12,6 @@ if (process.env.NODE_ENV !== 'production') {
 export const store = createStore(
     rootReducer,
     applyMiddleware(
-       middleWares
+        ...middleWares
     )
 );
