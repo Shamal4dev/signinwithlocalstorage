@@ -1,0 +1,123 @@
+{
+  "products": [
+    {
+      "productName": "Berger And Cola",
+      "productDescription": "This is a set of berger and cola which is a nice combo",
+      "manufacturer": "Mac Donalds",
+      "price": "339",
+      "quantity": "12",
+      "id": 1,
+      "noOfViews": 8,
+      "category": "Food",
+      "filePath": "Bergeranddrink.jpg"
+    },
+    {
+      "productName": "Digital SLR Camera",
+      "productDescription": "Good camera with 32gb sd card and its performnace is good",
+      "manufacturer": "Nikon",
+      "quantity": "3",
+      "price": "42000",
+      "id": 2,
+      "noOfViews": 9,
+      "category": "Electronics",
+      "filePath": "camera.jpg"
+    },
+    {
+      "productName": "Fruit Salad",
+      "productDescription": "Combination of mango, grapes, water melon and chocolate sizzler",
+      "manufacturer": "Fruit Bea",
+      "quantity": "8",
+      "price": "299",
+      "id": 3,
+      "noOfViews": 10,
+      "category": "Food",
+      "filePath": "fruitSalad.jpg"
+    },
+    {
+      "productName": "Ice Cream with strawberry",
+      "productDescription": "Strawberry flavoured ice cream with raw straberry pieces ",
+      "manufacturer": "Fruit Bea",
+      "price": "139",
+      "quantity": "2",
+      "noOfViews": 5,
+      "id": 5,
+      "category": "Food",
+      "filePath": "icecream.jpg"
+    },
+    {
+      "productName": "Sony Led TV",
+      "productDescription": "4K Led Tv with high pixel and great sound quality",
+      "manufacturer": "Sony",
+      "price": "50299",
+      "quantity": "4",
+      "noOfViews": 2,
+      "id": 7,
+      "category": "Electronics",
+      "filePath": "ledTv.jpg"
+    },
+    {
+      "productName": "One Plus",
+      "productDescription": "High Performanace and great camera quality",
+      "manufacturer": "BBK Electronics",
+      "price": "32000",
+      "quantity": "4",
+      "noOfViews": 1,
+      "id": 4,
+      "category": "Electronics",
+      "filePath": "phone.jpg"
+    },
+    {
+      "productName": "Adidas Running shoe",
+      "productDescription": "manufactured with high quality rubber and  its long lasting",
+      "manufacturer": "Adidas",
+      "price": "3000",
+      "quantity": "4",
+      "noOfViews": 3,
+      "id": 6,
+      "category": "Style",
+      "filePath": "shoes.jpg"
+    },
+    {
+      "productName": "Apple smart watch",
+      "productDescription": "Good smart watch with health monitor system and can connet your smart phone",
+      "manufacturer": "Apple",
+      "price": "13999",
+      "quantity": "4",
+      "noOfViews": 3,
+      "id": 8,
+      "category": "Style",
+      "filePath": "smartwatch.jpg"
+    },
+    {
+      "productName": "Reebok T-Shirt",
+      "productDescription": "Gray and Black color T-shirt",
+      "manufacturer": "Reebok",
+      "price": "499",
+      "quantity": "4",
+      "noOfViews": 3,
+      "id": 9,
+      "category": "Style",
+      "filePath": "tshirt.jpg"
+    }
+  ],
+  "users": [
+    {
+      "userName": "dilu@gmail.com",
+      "password": "testing123",
+      "firstName": "dhilu",
+      "lastName": "V",
+      "location": "bangalore",
+      "mobileNumber": 123456789,
+      "id": 1
+    },
+    {
+      "userName": "shamal@gmail.com",
+      "password": "1234",
+      "firstName": "Shamal",
+      "lastName": "kp",
+      "mobileNo": 123456789,
+      "location": "kochi",
+      "id": 2
+    }
+  ]
+}
