@@ -6,7 +6,7 @@ const path = require('path');
 const express = require('express');
 const app = express();
 const publicPath = path.join(__dirname, '..', 'build');
-const dbPort = process.env.PORT || 4000;
+const dbPort = process.env.PORT +'api' || 4000;
 const appPort = process.env.PORT || 3000;
 server.use(middlewares);
 server.use(router);
